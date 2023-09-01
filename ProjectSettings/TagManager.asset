@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Duvar
+  - road1
+  - road2
   layers:
   - Default
   - TransparentFX

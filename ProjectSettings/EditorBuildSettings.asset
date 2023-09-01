@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/AnaMenu.unity
-    guid: 6831292226961ca4a8506a12cd00d585
-  - enabled: 1
-    path: Assets/Scenes/AnketMenu.unity
-    guid: 6d689b59a77d7004b92b50fa445d0227
+    path: Assets/Scenes/lvl1.unity
+    guid: 700eb7e306e17fe4da44abfb87648c5d
   m_configObjects: {}
